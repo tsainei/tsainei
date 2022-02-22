@@ -43,7 +43,7 @@
     <a href="https://github.com/tsainei"><img alt="Ni's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tsainei&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/tsainei"><img alt="Ni's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsainei&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> The stats show what my public repos consist. They don't reflect my experience and skill level.
+  <b>Note:</b> The stats only have access to my public repos. They don't reflect my experience and skill level.
 
 <br/>
 <br/>
