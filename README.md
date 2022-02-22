@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🌱 I’m currently have fun learning **Ruby**
+- 🌱 I’m having fun learning **Ruby**
 
 - 📫 You can reach me through **hi@tsainei.com**
 
