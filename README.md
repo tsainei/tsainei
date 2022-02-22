@@ -13,7 +13,7 @@
 
 - 📫 You can reach me through **hi@tsainei.com**
 
-- 😀 Fun facts: My dominant hand is my left hand but I write calligraphy with my right hand. I have very thin wrists.
+- 😀 Fun facts: My dominant hand is my left hand, but I write calligraphy with my right hand. I have very thin wrists.
 
 - ❤️ **I like reading, dancing, doing yoga and listening to audiobooks.** I'm a big fan of The Dark Tower.
 
