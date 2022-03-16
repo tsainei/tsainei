@@ -78,7 +78,7 @@
 <br/>
 
 
-- [Javascript 30 projects](https://portfolio.tsainei.com/js30/2020/11/25/) Javascript30 is a 30 day Javascript coding challenge made by Wes Bos.
+- [Javascript 30 projects](https://portfolio.tsainei.com/js30/2020/11/25/JS30/) Javascript30 is a 30 day Javascript coding challenge made by Wes Bos.
 - [Background generator](https://portfolio.tsainei.com/100DaysOfCode/Day23_backgroundgenerator/)
 - [House selling website](https://portfolio.tsainei.com/100DaysOfCode/Day21_house_sale_website/) with CSS grid
 - [Startup Website](https://portfolio.tsainei.com/100DaysOfCode/Day18_startup_website/) with bootstrap
