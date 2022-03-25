@@ -54,7 +54,7 @@
 
 <br/>
 
-- [7 way weather app](https://tsainei.github.io/vue-7-day-weather-app/) -[Github Repo](https://github.com/tsainei/vue-7-day-weather-app)
+- [7 day weather app](https://tsainei.github.io/vue-7-day-weather-app/) -[Github Repo](https://github.com/tsainei/vue-7-day-weather-app)
 - [todolist](https://tsainei.github.io/todo-list/) -[Github Repo](https://github.com/tsainei/todo-list)
 
 <br/>
