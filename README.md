@@ -1,7 +1,7 @@
 <a  href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xwMxmx6cTsElW/giphy.gif" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ni(Tsai Nei).</h1>
-<h3 align="center">I'm a passionate Front-end Developer.</h3>
+<h3 align="center">I'm a passionate Fullstack Developer</h3>
 
 ## 🙋‍♂️ About Ni
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-- [7 day weather app](https://tsainei.github.io/vue-7-day-weather-app/) -[Github Repo](https://github.com/tsainei/vue-7-day-weather-app)
+- [7 day weather app](https://tsainei.github.io/vue-one-week-weather/) -[Github Repo](https://github.com/tsainei/vue-one-week-weather)
 - [todolist](https://tsainei.github.io/todo-list/) -[Github Repo](https://github.com/tsainei/todo-list)
 
 <br/>
@@ -88,7 +88,7 @@
 
 ## Connect With Ni
 
-<p align="left">
+<p>
 
 <a href = "https://www.linkedin.com/in/tsainei/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yuantsainei"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
