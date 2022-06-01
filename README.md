@@ -1,5 +1,3 @@
-<a  href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/xwMxmx6cTsElW/giphy.gif" height="175px"/></a>
-
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ni(Tsai Nei).</h1>
 <h3 align="center">I'm a passionate Fullstack Developer</h3>
 
