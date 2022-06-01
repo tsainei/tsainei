@@ -3,17 +3,19 @@
 
 ## 🙋‍♂️ About Ni
 
-- 🧋 From Taiwan, also a 🇪🇸 citizen.
+- 🧋 From Taiwan, also a 🇪🇸 citizen
 
 - 🔭 I’m currently working on **my portfolio website**
+
+- 🤓 Download my <a href="https://github.com/tsainei/tsainei/raw/main/cv%20tsainei.pdf">resume</a>
 
 - 🌱 I’m having fun learning **Ruby**
 
 - 📫 You can reach me through **hi@tsainei.com**
 
-- 😀 Fun facts: My dominant hand is my left hand, but I write calligraphy with my right hand. I have very thin wrists.
+- 😀 Fun facts: My dominant hand is my left hand, but I write calligraphy with my right hand. I have very thin wrists
 
-- ❤️ **I like reading, dancing, doing yoga and listening to audiobooks.** I'm a big fan of The Dark Tower.
+- ❤️ **I like reading, dancing, doing yoga and listening to audiobooks.** I'm a big fan of The Dark Tower
 
 
 ## 🚀 Languages and Tools
