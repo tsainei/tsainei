@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my portfolio website**
 
-- 🤓 Download my <a href="https://github.com/tsainei/tsainei/raw/main/cv%20tsainei.pdf">resume</a>
+- 🤓 Download my <a href="https://github.com/tsainei/tsainei/raw/main/cv.pdf">resume</a>
 
 - 🌱 I’m having fun learning **Ruby**
 
