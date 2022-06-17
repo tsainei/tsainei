@@ -5,7 +5,7 @@
 
 - 🧋 From Taiwan, also a 🇪🇸 citizen
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently doing **Kotlin challenges**
 
 - 🤓 Download my <a href="https://github.com/tsainei/tsainei/raw/main/cv.pdf">resume</a>
 
