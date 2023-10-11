@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently doing **Kotlin challenges**
 
-- 🤓 Download my <a href="https://github.com/tsainei/tsainei/raw/main/cv.pdf">resume</a>
+- 🤓 Download my <a href="https://github.com/tsainei/resume/raw/main/cv_ni.pdf">resume</a>
 
 - 🌱 I’m having fun learning **Ruby**
 
